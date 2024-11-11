@@ -20,16 +20,16 @@ const default_config = {
       background_url: "src/img/banners/cbg-9.gif",
       categories: [
         {
-          name: "böökmarks",
+          name: "bookmarks",
           links: [
             {
-              name: "raindrop",
+              name: "regndroppe",
               url: "https://app.raindrop.io",
               icon: "droplet-bolt",
               icon_color: palette.green,
             },
             {
-              name: "musicForProgramming();",
+              name: "musicForAutism();",
               url: "https://musicforprogramming.net",
               icon: "binary-tree",
               icon_color: palette.peach,
