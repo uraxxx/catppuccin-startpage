@@ -16,11 +16,11 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "mys3lf",
+      name: "myself",
       background_url: "src/img/banners/cbg-9.gif",
       categories: [
         {
-          name: "bookmarks",
+          name: "böökmarks",
           links: [
             {
               name: "raindrop",
