@@ -83,7 +83,7 @@ const default_config = {
             {
               name: "куток2",
               url: "https://kutok.io",
-              icon: "border-radius",
+              icon: "eye-bolt",
               icon_color: palette.red,
             },
             {
